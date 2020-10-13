@@ -1,5 +1,10 @@
 # Code Editor Package for Visual Studio Code
 
+## [1.2.2-fix] - 2020-10-13
+
+Creating projects with ReferenceOutputAssembly set to TRUE
+
+
 ## [1.2.2] - 2020-09-04
 
 VSC-14 - synchronize solution file when adding new assembly
